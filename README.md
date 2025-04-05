@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I make melodies that speak beyond words
+https://linktr.ee/davidoriakhi
 <!--
 **david00oriakhi/david00oriakhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
